@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DnDConnectionString": "server=(localdb)\\ProjectsV13;Database=DnDDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  }
+}
